@@ -5,6 +5,7 @@ class patient
   @@all = []
 
   def initialize
+    
   end
 
 end
