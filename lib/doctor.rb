@@ -24,6 +24,8 @@ class Doctor
   end
 
   def patients
+    Appointment.all collect do |appointment|
+      
   end
 
 
